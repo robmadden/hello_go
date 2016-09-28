@@ -9,6 +9,10 @@ An example Golang server that uses GraphQL and Relay.
 - [graphql-relay-go](https://github.com/graphql-go/relay): Golang GraphQL library helper to construct Relay-compliant server
 - [graphql-hander](https://github.com/graphql-go/hander): Golang HTTP.Handler for graphl-go
 
+### Useful Links
+
+- [How to Write Go Code](https://golang.org/doc/code.html#Workspaces)
+
 ### How to run Hello Go locally:
 
 1. Make sure you have go installed.
