@@ -12,6 +12,7 @@ An example Golang server that uses GraphQL and Relay.
 ### Useful Links
 
 - [How to Write Go Code](https://golang.org/doc/code.html#Workspaces)
+- [Deploying Go servers with Docker](https://blog.golang.org/docker)
 
 ### How to run Hello Go locally:
 
